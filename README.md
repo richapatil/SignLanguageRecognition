@@ -30,13 +30,6 @@ Key functionality includes:
 
 ---
 
-## 📂 Project Structure
-
-
-
-
----
-
 ## ⚙️ How the Project Works
 1. **Hand Histogram Setup**:  
    - Run `set_hand_histogram.ipynb` to capture your hand and generate a histogram.  
